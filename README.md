@@ -9,7 +9,7 @@
 3. Run the "Application.cpp" file
 4. Have fun!
 
-**<br /><br />Game Controls/Directions:** 
+**<br />Game Controls/Directions:** 
 * Use WASD to control the snake (purple boxes)
 * Try to eat as much of the food (red boxes) as possible - this increases your score
 * Stay inside of the grid
