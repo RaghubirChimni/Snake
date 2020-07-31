@@ -7,4 +7,10 @@
 1. Download all of the files in this repository
 2. Load them all into an IDE
 3. Run the "Application.cpp" file
-4. Use WASD to control the snake and try to eat as much of the food as possible
+4. Have fun!
+
+**<br /><br />Game Controls/Directions:** 
+* Use WASD to control the snake (purple boxes)
+* Try to eat as much of the food (red boxes) as possible - this increases your score
+* Stay inside of the grid
+* Don't tangle up (overlap) the snake's body
