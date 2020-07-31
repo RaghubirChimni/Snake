@@ -11,6 +11,6 @@
 
 **<br />Game Controls/Directions:** 
 * Use WASD to control the snake (purple boxes)
-* Try to eat as much of the food (red boxes) as possible - this increases your score
+* Try to eat as much of the food (red box) as possible - this increases your score
 * Stay inside of the grid
 * Don't tangle up (overlap) the snake's body
