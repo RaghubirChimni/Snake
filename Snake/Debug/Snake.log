@@ -1,0 +1,9 @@
+﻿  Application.cpp
+  Game.cpp
+C:\Users\Rchim\Desktop\Random Code\Snake_C++\Snake\Snake\src\Game.cpp(120,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Rchim\Desktop\Random Code\Snake_C++\Snake\Snake\src\Game.cpp(120,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Rchim\Desktop\Random Code\Snake_C++\Snake\Snake\src\Game.cpp(120,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Rchim\Desktop\Random Code\Snake_C++\Snake\Snake\src\Game.cpp(120,10): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Rchim\Desktop\Random Code\Snake_C++\Snake\Snake\src\Game.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Snake.vcxproj -> C:\Users\Rchim\Desktop\Random Code\Snake_C++\Snake\Debug\Snake.exe
