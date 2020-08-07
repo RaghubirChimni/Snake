@@ -38,10 +38,10 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
                 direction = UP;
         }
         else if (key == GLFW_KEY_S)
-            {
+        {
                 if (direction != UP)
                     direction = DOWN;
-            }
+        }
         else if (key == GLFW_KEY_D)
         {
             if (direction != LEFT)
@@ -112,6 +112,7 @@ int main(int argc, char* argv[])
         // keyboard callback
         glfwSetKeyCallback(window, key_callback);
 
+        // to limit FPS
         sleep_for(nanoseconds(50000000));
 
         /* Poll for and process events */
